@@ -1,4 +1,4 @@
-# imagecropperapi
+# seamCarving
 
 Image cropper, using seam carving algorithm. It's not working on all images, but it's a good start.
 It supports png and jpg images. All settings can be changed in the async function main() file.
